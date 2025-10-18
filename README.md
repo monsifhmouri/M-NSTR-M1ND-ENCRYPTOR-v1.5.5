@@ -48,10 +48,6 @@ Support development and maintenance:
 
 **Bitcoin**: `12w4jBxtUopH29c31HVaUxUquwDzGiwk8a`
 
-## ⚠️ Disclaimer
-
-This tool is for educational and legitimate security purposes only. Users are responsible for complying with local laws.
-
 ## 🔒 Privacy
 
 - No data collection
