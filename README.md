@@ -31,7 +31,7 @@ Advanced AES Encryption Tool with Military-Grade Security
 ## 🛠️ How to Use
 
 1. Download and extract the tool
-2. Run `MØNSTR-M1ND.exe` (Windows) or `monstermind` (Mac/Linux)
+2. Run `MØNSTR-M1ND.exe` (Windows)
 3. Enter master password: `fuckyou`
 4. Choose encryption/decryption mode
 5. Enter your message and password
